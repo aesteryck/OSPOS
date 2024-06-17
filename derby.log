@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Jun 17 22:29:29 ICT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0190-26d1-49e9-00000084f980 
+on database directory F:\01.syspos\pos\database\derby-single\posdb  with class loader sun.misc.Launcher$AppClassLoader@1f96302 
+Loaded from file:/F:/01.syspos/pos/lib/derby-10.8.1.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_321-b07
+user.dir=F:\01.syspos\pos
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
